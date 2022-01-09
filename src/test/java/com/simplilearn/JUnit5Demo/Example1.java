@@ -1,4 +1,4 @@
-package com.simplilearn.JUnit5Demo.junit;
+package com.simplilearn.JUnit5Demo;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
